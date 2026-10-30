@@ -1,4 +1,4 @@
-## Greetings travller 👋
+## Greetings traveler 👋
 
 I'm Robert, a recent Electrical and Computer engineering graduate. 
 
