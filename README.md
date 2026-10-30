@@ -18,3 +18,17 @@ Fun facts:
 - I am half left handed and half right handed (complicated story) 😄
 
 <h2 align = "center"> Some of my projects </h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Electrical Measuring Unit</h3>
+      <img src="./assets/projects/electrical-measuring.png" width="250">
+    </td>
+
+    <td align="center">
+      <h3>Flight Computer</h3>
+      <img src="./assets/projects/flight-computer.png" width="250">
+    </td>
+  </tr>
+</table>
