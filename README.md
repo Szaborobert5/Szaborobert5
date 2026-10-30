@@ -17,18 +17,83 @@ Fun facts:
 - I love classic literature
 - I am half left handed and half right handed (complicated story) 😄
 
-<h2 align = "center"> Some of my projects </h2>
+<h2 align="center">Some of my projects</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>Electrical Measuring Unit</h3>
-      <img src="./assets/projects/electrical-measuring.png" width="250">
-    </td>
+<table width="100%">
+<tr>
 
-    <td align="center">
-      <h3>Flight Computer</h3>
-      <img src="./assets/projects/flight-computer.png" width="250">
-    </td>
-  </tr>
+<!-- PROJECT 1 -->
+<td width="40%" valign="top">
+<a href="https://github.com/Szaborobert5/Electrical-Measuring-System">
+<img src="https://github.com/Szaborobert5/Electrical-Measuring-System/blob/main/media/PCB_IRL.jpg" width="65%">
+</a>
+
+### Electrical measuring system
+
+Electrical measuring system for AC/DC voltage, active and reactive power, and frequency.
+
+`C` · `STM32` · `ATM90E26` · `KiCad`
+</td>
+
+<!-- PROJECT 2 -->
+<td width="60%" valign="top">
+<a href="https://github.com/Szaborobert5/Greenhouse-project-">
+<img src="https://github.com/Szaborobert5/Greenhouse-project-/blob/main/Images/greenhouse.png" width="90%">
+</a>
+
+### Greenhouse automation
+
+Arduino-based greenhouse monitoring and automation system.
+
+`C` · `STM32` · `PCB Design` · `Altium`
+</td>
+
+</tr>
+
+<tr>
+
+<!-- PROJECT 3 -->
+<td width="50%" valign="top">
+<a href="PROJECT_LINK_3">
+<img src="./assets/projects/energy-harvesting.png" width="100%">
+</a>
+  
+### Energy Harvesting
+
+Research project involving thermoelectric and piezoelectric energy harvesting.
+
+`Energy harvesting` · `PCB Design`
+</td>
+
+<!-- PROJECT 4 -->
+<td width="50%" align="center" valign="top">
+<a href="PROJECT_LINK_4">
+<img src="./assets/projects/robotics.png" width="100%">
+</a>
+
+### ROS2 Cube Sorting
+
+Autonomous robotic system for detecting and sorting colored cubes.
+
+`ROS2` · `Python`
+</td>
+
+</tr>
+
+<tr>
+
+<!-- PROJECT 5 -->
+<td colspan="2" align="center">
+<a href="PROJECT_LINK_5">
+<img src="./assets/projects/greenhouse.png" width="50%">
+</a>
+
+### Birch antenna
+
+An antenna based on birch bark substrate. 
+
+`Antenna` · `RF` · `CST`
+</td>
+
+</tr>
 </table>
