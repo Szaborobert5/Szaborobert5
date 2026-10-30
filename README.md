@@ -1,23 +1,20 @@
-<h2 align="center"> Hello, I'm Robert 👋 </h2>
+## Greetings travller 👋
 
-<h2 align = "center">I'm a recent electrical and computer engineering graduate. I am drawn to low-level software and hardware design. 
+I'm Robert, a recent Electrical and Computer engineering graduate. 
 
-I've worked from designing hardware to writing low-level software. In an ideal world I like to combine them in a project.  </h2>
+I enjoy designing hardware and writing low-level software. Each day a try to learn something new.
 
-<h2 align = "center"> Things I like...</h2>
-<p align = "center">
-      <img src="https://cdn.simpleicons.org/c" width="50"> 
-      <img src="https://cdn.simpleicons.org/Linux" width="50"> 
-      <img src="https://cdn.simpleicons.org/cplusplus" width="50"> 
-      <img src="https://cdn.simpleicons.org/python" width="50"> 
-      <img src="https://cdn.simpleicons.org/arduino" width="50"> 
-      <img src="https://cdn.simpleicons.org/git" width="50" /> 
-      <img src="https://cdn.simpleicons.org/kicad" width="50" /> 
-      <img src="https://cdn.simpleicons.org/ros" width="50" />
-</p>
+Sometimes when I have to give a present I usually build engineer something. Either I write a simple software,prototype hardware or in an ideal world I use both.
 
-<h2 align ="center" Some of my projects </h2>
-<p align = "center">
-  <img src= "https://github.com/Szaborobert5/Electrical-Measuring-System/blob/main/media/PCB_IRL.jpg" width = "30%" />
+The things I like : <img src="https://cdn.simpleicons.org/c" width="20"> <img src="https://cdn.simpleicons.org/Linux" width="20"> <img src="https://cdn.simpleicons.org/cplusplus" width="20"> <img src="https://cdn.simpleicons.org/python" width="20"> <img src="https://cdn.simpleicons.org/arduino" width="20"> <img src="https://cdn.simpleicons.org/git" width="20"/> <img src="https://cdn.simpleicons.org/kicad" width="20" />
 
-</p>
+I've competed in hardware competitions.
+
+I've worked with a research team in extending the reading range of an RFID and co-authored in a research paper.
+
+Fun facts:
+- I speak three languages fluently : Hungarian, Serbian and English.
+- I love classic literature
+- I am half left handed and half right handed (complicated story) 😄
+
+<h2 align = "center"> Some of my projects </h2>
