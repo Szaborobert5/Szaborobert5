@@ -15,7 +15,7 @@ I've worked with a research team in extending the reading range of an RFID and c
 Fun facts:
 - I speak three languages fluently : Hungarian, Serbian and English.
 - I love classic literature
-- I am half left handed and half right handed (complicated story) 😄
+- I am half left handed and half right handed
 
 <h2 align="center">Some of my projects</h2>
 
