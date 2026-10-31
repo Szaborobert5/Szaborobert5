@@ -67,8 +67,8 @@ Research project involving thermoelectric and piezoelectric energy harvesting.
 
 <!-- PROJECT 4 -->
 <td width="50%" align="center" valign="top">
-<a href="PROJECT_LINK_4">
-<img src="./assets/projects/robotics.png" width="100%">
+<a href="https://github.com/Szaborobert5/ROS2-xArm7-robotic-arm-cube-solver">
+<img src="https://github.com/Szaborobert5/ROS2-xArm7-robotic-arm-cube-solver/blob/master/Sorted_cubes.png" width="100%">
 </a>
 
 ### ROS2 Cube Sorting
