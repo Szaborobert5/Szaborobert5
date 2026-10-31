@@ -54,8 +54,8 @@ Arduino-based greenhouse monitoring and automation system.
 
 <!-- PROJECT 3 -->
 <td width="50%" valign="top">
-<a href="PROJECT_LINK_3">
-<img src="./assets/projects/energy-harvesting.png" width="100%">
+<a href="https://github.com/Szaborobert5/Energy-harvesting">
+<img src="https://github.com/Szaborobert5/Szaborobert5/blob/main/energy_harvesting.jpg" width="100%">
 </a>
   
 ### Energy Harvesting
