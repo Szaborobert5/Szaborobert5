@@ -2,9 +2,9 @@
 
 I'm Robert, a recent Electrical and Computer engineering graduate. 
 
-I enjoy designing hardware and writing low-level software. Each day a try to learn something new.
+I enjoy designing hardware and writing low-level software. Each day I try to learn something new.
 
-Sometimes when I have to give a present I usually build engineer something. Either I write a simple software,prototype hardware or in an ideal world I use both.
+Sometimes when I have to give a present I usually build engineer something. Either I write a simple software,prototype hardware or I use both.
 
 The things I like : <img src="https://cdn.simpleicons.org/c" width="20"> <img src="https://cdn.simpleicons.org/Linux" width="20"> <img src="https://cdn.simpleicons.org/cplusplus" width="20"> <img src="https://cdn.simpleicons.org/python" width="20"> <img src="https://cdn.simpleicons.org/arduino" width="20"> <img src="https://cdn.simpleicons.org/git" width="20"/> <img src="https://cdn.simpleicons.org/kicad" width="20" />
 
@@ -84,8 +84,8 @@ Autonomous robotic system for detecting and sorting colored cubes.
 
 <!-- PROJECT 5 -->
 <td colspan="2" align="center">
-<a href="PROJECT_LINK_5">
-<img src="./assets/projects/greenhouse.png" width="50%">
+<a href="https://github.com/Szaborobert5/Birch-antenna">
+<img src="https://github.com/Szaborobert5/Birch-antenna/blob/main/antenna_IRL.png" width = "45%">
 </a>
 
 ### Birch antenna
